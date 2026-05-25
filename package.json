@@ -1,0 +1,17 @@
+{
+  "name": "gupta-company-hub",
+  "version": "1.0.0",
+  "description": "GUPTA & CO. - Sovereign Manifold Hub",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
